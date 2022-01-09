@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jadnast Rich</h1>
 <h3 align="center">I'm developer and designer</h3>
 
-- 🔭 I’m currently working on [Zimoxy](https://zimoxy.ga/)
+- 🔭 I’m currently working on [Zimoxy](https://zimoxy.ru/)
 
 - 📫 How to reach me **jadnostt@gmail.com** or **jadnast#0567** in Discord.
 

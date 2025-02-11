@@ -34,5 +34,6 @@ I started by developing plugins for Garry's Mod servers and have since transitio
 - **[font@hikasami](https://github.com/hikasami/font)** – *Hikasami Sans Font.*  
 - **[Session ID](https://github.com/theinfinityway/session_id)** – *Library for handling [Session](https://getsession.org) user IDs.*  
 - **[ZHack](https://github.com/theinfinityway/zhack)** – *Automated, fast, and convenient execution of Uchi.ru cards.*  
+- And many other projects that I cannot disclose due to a non-disclosure agreement ;(
 ---
 > Template created by my friend [li0ard](https://github.com/li0ard).
